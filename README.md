@@ -15,9 +15,9 @@ I am not just someone who writes code, am crafting virtual spaces where ideas co
 Being a developer more than just a job 💯💯
 
 🤝 Let's get connected
-🔗 LinkedIn - in/bayezid-rahman-13b026285
-🔗 Portfolio - in/bayezid-rahman-13b026285
-📩 Mail - bayzidtonmoy123@gmail.com
+- 🔗 in/bayezid-rahman-13b026285
+- 🔗 https://portfolio-site-flax-theta.vercel.app/
+- 📩 bayzidtonmoy123@gmail.com
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English | 🇫🇮 Finnish
 🏡 Helsinki, Finland
