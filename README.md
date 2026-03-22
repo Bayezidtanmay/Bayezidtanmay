@@ -40,7 +40,7 @@
 - Laravel API + React frontend
 - User authentication, broker system, dashboard
 
-👉 [View Project](https://github.com/YOUR_REPO_LINK)
+👉 [View Project](https://github.com/Bayezidtanmay/UrbanStay)
 
 ---
 
