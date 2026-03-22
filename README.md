@@ -49,7 +49,7 @@
 - Built with Laravel
 - Clean API structure + validation
 
-👉 [View Project](https://github.com/YOUR_REPO_LINK)
+👉 [View Project]([https://github.com/YOUR_REPO_LINK](https://github.com/Bayezidtanmay/Service-Finder-API))
 
 ---
 
