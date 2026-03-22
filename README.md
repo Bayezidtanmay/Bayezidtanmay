@@ -40,7 +40,7 @@
 - Laravel API + React frontend
 - User authentication, broker system, dashboard
 
-👉 [View Project]((https://github.com/Bayezidtanmay/UrbanStay))
+👉 [View Project]( [UrbanStay](https://github.com/Bayezidtanmay/UrbanStay))
 
 ---
 
@@ -49,7 +49,7 @@
 - Built with Laravel
 - Clean API structure + validation
 
-👉 [View Project]((https://github.com/Bayezidtanmay/Service-Finder-API))
+👉 [View Project]( [Service Finder API] (https://github.com/Bayezidtanmay/Service-Finder-API))
 
 ---
 
